@@ -3,10 +3,10 @@ Introduction
 The Employee Management System is a Java-based application designed to facilitate CRUD operations (Create, Read, Update, Delete) on an employee database. This system allows users to manage employee information efficiently.
 
 <h3>Features</h3>
-Create: Add new employees to the database.
-Read: View existing employee records.
-Update: Modify employee information.
-Delete: Remove employees from the database.
+Create: Add new employees to the database.<br>
+Read: View existing employee records.<br>
+Update: Modify employee information.<br>
+Delete: Remove employees from the database.<br>
 <h3>Requirements</h3>
 Ensure the following software is installed on your system:
 <br>
