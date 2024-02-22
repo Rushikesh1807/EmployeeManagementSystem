@@ -9,10 +9,10 @@ Update: Modify employee information.
 Delete: Remove employees from the database.
 <h3>Requirements</h3>
 Ensure the following software is installed on your system:
-
-Java Development Kit (JDK) 8 or higher
-MySQL Server
-MySQL Connector/J (Java MySQL JDBC driver)
+<br>
+Java Development Kit (JDK) 8 or higher<br>
+MySQL Server<br>
+MySQL Connector/J (Java MySQL JDBC driver)<br>
 <h3>Usage</h3>
 Upon running the application, you'll be prompted with options to manage employee records. Follow the on-screen instructions to perform CRUD operations.
 
